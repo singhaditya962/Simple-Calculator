@@ -5,7 +5,7 @@
 
 This is a simple calculator which performs addition, subtraction, multiplication and division.
 
-![Image of Calulator]("D:\projects\Js project\Calculator\Simple-Calculator\images\output.png")
+![Image of Calulator](https://github.com/singhaditya962/Simple-Calculator/blob/main/images/output.png)
 
 ## Getting Started
 
